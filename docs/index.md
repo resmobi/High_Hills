@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+###High Hills
+##Privacy Policy of High Hills
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-You can use the [editor on GitHub](https://github.com/resmobi/High_Hills/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+##How do we use the sensitive permissions in your app?
+DEVICE-ADMIN: Greenify requests this permission only for turning-off the screen of your device. (including but not limited to “hibernation shortcut” and “automatic hibernation”) DRAW OVER OTHER APP: To dim the screen and show hints during unattended automatic hibernation. GET ACCOUNTS & WRITE SYNC SETTINGS: Control the account sync of apps if its sync task is too frequent. DISABLE YOUR SCREEN LOCK: For automatic hibernation to work on non-root devices. BIND ACCESSIBILITY SERVICE: To automate the manual procedure of hibernation. We never collect any private data from accessibility service. What information do we collect from the people that use our app?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We do not collect personal information from users, but we do collect anonymized behavior information about users and internal app data, to improve our products and customer service.
 
-### Markdown
+##Third-party disclosure
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-```markdown
-Syntax highlighted code block
+##COPPA (Children Online Privacy Protection Act)
 
-# Header 1
-## Header 2
-### Header 3
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-- Bulleted
-- List
+We do not specifically market to children under the age of 13 years old.
 
-1. Numbered
-2. List
+##CAN SPAM Act
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**Bold** and _Italic_ and `Code` text
+##Contacting Us
+If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-[Link](url) and ![Image](src)
-```
+robertorizzi242439@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/resmobi/High_Hills/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
